@@ -3,13 +3,15 @@
 
 This is a simple tool that collects TUS from side addresses to main address. Especially for Crabada players who has multiple accounts. 
 
+## Set Up
  1. [Install Python](#install-python)
  2. [Get Your Address](#get-your-address)
  3. [Get Your Private Key](#get-your-private-key)
  4. [Set Main Address](#set-main-address)
- 5. [Run Program](#run-program)
+ 5. [Set Side Addresses and Private Keys](#set-side-addresses-and-private-keys)
+ 6. [Run Program](#run-program)
  
- 
+ **Options** are under **config.py**, you can change your preferences (Floor transfer limit, leave amount etc.) through this file
 ### Install Python
 
 Firstly, Python3 should be installed on your computer. You can download Python from the link below.
@@ -72,6 +74,7 @@ Then **web3.py** package should be installed.
 
 - Put your addresses to the left side. Private keys should be at the right side like below.
 
+- ! **Warning:** Don't put your main address inside this dictionary.
 ![Screen Shot 2022-09-12 at 16 13 02](https://user-images.githubusercontent.com/60021484/189664015-52650c3f-a680-464d-96e9-f53e7acfea5f.png)
 
 ### Run program
