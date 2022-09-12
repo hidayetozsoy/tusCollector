@@ -1,14 +1,12 @@
 MAIN_ADDRESS = "0xf6463F3C5E2DCe879eE61E005A0Ad15601838A84" #address of the account that coins will be sent to
 
 PRIVATE_KEYS = { #private keys of the addresses that TUS will be sent from. Main address shouldn't be involved
-    "0xcf80bc3d82513035b4a3f3fa7322d91e643c5e13":"",
-    "0x2b2aafa7c46d4854540fe6d955a5c9a5ccc1fcd6":"",
-    "0xca25ed5b1de6db099ca55087a2727a803620f5b7":"",
-    "0xe9eaf20cfec1ce6c9b73c7fed4514218dd441124":""
+    "0x82A323000D50CABaEd045A71FDE88e01a8b082d8":"58995c0f29e038d54d94868b8592edc1cbe88f076e24aa91b1a54b5d463317df",
+    "0x4043D2508C591f57C1C0d36CF227be5a3ace83d4":"686e075ee398432d1ea14f9acabd93e695f77404bc51d800dab3c0c1aa02fe14",
 }
 
-AMOUNT_LEFT = 150 #amount of TUS that will be left at the address to maintain the game.
-FLOOR_LIMIT = 300 #floor limit for transfer. if the amount is less than floor limit, transfer will not be executed.
+AMOUNT_LEFT = 150 * pow(10,18) #amount of TUS that will be left at the address to maintain the game.
+FLOOR_LIMIT = 300 * pow(10,18) #floor limit for transfer. if the amount is less than floor limit, transfer will not be executed.
 
 GAS_PRICE_LIMIT = 20000 * pow(10,9)
 GAS_LIMIT = 300000
