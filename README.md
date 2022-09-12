@@ -40,24 +40,17 @@ Then **web3.py** package should be installed.
 
 - Click **three dots** on the top right.
 
-<img width="405" alt="Screen Shot 2022-09-12 at 11 20 15" src="https://user-images.githubusercontent.com/60021484/189606234-95cf6cc5-5396-49f3-9d02-02f418f57f01.png">
-
 - Click **Account Details**.
-
-<img width="405" alt="Screen Shot 2022-09-12 at 11 10 18" src="https://user-images.githubusercontent.com/60021484/189605733-22c6cc8c-e902-41a7-8257-83869a43ac3e.png">
 
 - Click **Export Private Key**.
 
-<img width="405" alt="Screen Shot 2022-09-12 at 11 10 37" src="https://user-images.githubusercontent.com/60021484/189605778-61ca4955-ca3b-4f8c-b345-e3517bdfd28f.png">
-
 - Write your **Metamask password** to the area and click **Confirm**. You will see your private key.
-
-<img width="405" alt="Screen Shot 2022-09-12 at 11 11 11" src="https://user-images.githubusercontent.com/60021484/189605899-49e26118-7f7c-452d-8278-00231c141ada.png">
 
 - Copy your **private key**.
 
-<img width="405" alt="Screen Shot 2022-09-12 at 11 12 17" src="https://user-images.githubusercontent.com/60021484/189605924-46799f1c-9f9e-4c92-8fab-903b81351340.png">
+- Wait for GIF below.
 
+![howToGetPrivateKey](https://user-images.githubusercontent.com/60021484/189709264-af5cb80f-b286-4d10-9720-f3bd27db6f59.gif)
 
 ### Set Main Address
 
@@ -75,7 +68,8 @@ Then **web3.py** package should be installed.
 - Put your addresses to the left side. Private keys should be at the right side like below.
 
 - ! **Warning:** Don't put your main address inside this dictionary.
-![Screen Shot 2022-09-12 at 16 13 02](https://user-images.githubusercontent.com/60021484/189664015-52650c3f-a680-464d-96e9-f53e7acfea5f.png)
+
+![Screen Shot 2022-09-12 at 20 00 07](https://user-images.githubusercontent.com/60021484/189713463-33500679-5726-4997-ac94-fa1f3c30eaf5.png)
 
 ### Run program
 
