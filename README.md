@@ -4,8 +4,8 @@
 This is a simple tool that collects TUS from side addresses to main address. Especially for Crabada players who has multiple accounts. 
 
  1. [Install Python](#install-python)
- 2. [How To Get Your Address](#how-to-get-your-address)
- 3. [How To Get Your Private Key](#how-to-get-your-private-key)
+ 2. [Get Your Address](#get-your-address)
+ 3. [Get Your Private Key](#get-your-private-key)
  4. [Set Main Address](#set-main-address)
  5. [Run Program](#run-program)
  
@@ -26,14 +26,14 @@ Then **web3.py** package should be installed.
 - For Windows:
 `pip install web3`
  
-### How To Get Your Address
+### Get Your Address
 - Open **Metamask** extension
 
 - Click to the shown area. Your address will be copied to clipboard.
 
 <img width="405" alt="Screen Shot 2022-09-12 at 11 21 46" src="https://user-images.githubusercontent.com/60021484/189613923-2d75d3a9-79d1-4d0e-a3ee-aeee7d0dfaaa.png">
 
-### How To Get Your Private Key
+### Get Your Private Key
 - Open **Metamask** extension.
 
 - Click **three dots** on the top right.
