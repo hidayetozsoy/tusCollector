@@ -68,17 +68,11 @@ Then **web3.py** package should be installed.
 <img width="1357" alt="main address" src="https://user-images.githubusercontent.com/60021484/189614987-7476ebb9-bdcd-4ebc-9b39-1073bfbf4595.png">
 
 ### Set Side Addresses and Private Keys
-- Open config.py under **src/utils** directory. You can use Visual Studio Code to edit the code, or Notepad will be useful.
+- Open **config.py** under **src/utils** directory. You can use Visual Studio Code to edit the code, or Notepad will be useful.
 
-- Put your addresses to the left side. Private keys should be put to the right side like below.
+- Put your addresses to the left side. Private keys should be at the right side like below.
 
-  - Address 
-  
-  <img width="1357" alt="address" src="https://user-images.githubusercontent.com/60021484/189615214-df152b16-9ab2-45a5-90a3-0a4a3cc454ae.png">
-  
-  - Private key
-  
-  <img width="1357" alt="private key" src="https://user-images.githubusercontent.com/60021484/189615276-9f405fa7-7e2f-49aa-9b06-7e1c993d97e1.png">
+![Screen Shot 2022-09-12 at 16 13 02](https://user-images.githubusercontent.com/60021484/189664015-52650c3f-a680-464d-96e9-f53e7acfea5f.png)
 
 ### Run program
 
