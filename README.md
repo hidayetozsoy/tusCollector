@@ -21,14 +21,10 @@ Then **web3.py** package should be installed.
 - Open **Terminal** or **Cmd**:
 
 - For Mac:
-```
-pip3 install web3
-```
+`pip3 install web3`
 
 - For Windows:
-```
-pip install web3
-```
+`pip install web3`
  
 ### How To Get Your Address
 - Open **Metamask** extension
