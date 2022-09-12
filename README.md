@@ -3,10 +3,32 @@
 
 This is a simple tool that collects TUS from side addresses to main address. Especially for Crabada players who has multiple accounts. 
 
- 1. [How To Get Your Address](#how-to-get-your-address)
- 2. [How To Get Your Private Key](#how-to-get-your-private-key)
- 3. [Set Main Address](#set-main-address)
- 4. [Run Program](#run-program)
+ 1. [Install Python](#install-python)
+ 2. [How To Get Your Address](#how-to-get-your-address)
+ 3. [How To Get Your Private Key](#how-to-get-your-private-key)
+ 4. [Set Main Address](#set-main-address)
+ 5. [Run Program](#run-program)
+ 
+ 
+### Install Python
+
+Firstly, Python3 should be installed on your computer. You can download Python from the link below.
+
+- https://www.python.org/downloads/
+
+Then **web3.py** package should be installed. 
+
+- Open **Terminal** or **Cmd**:
+
+- For Mac:
+```
+pip3 install web3
+```
+
+- For Windows:
+```
+pip install web3
+```
  
 ### How To Get Your Address
 - Open **Metamask** extension
@@ -68,10 +90,10 @@ This is a simple tool that collects TUS from side addresses to main address. Esp
 
 - For Mac
 
-  `python3 main.py`
+  ```python3 main.py```
 
 - For Windows
 
-  `python main.py`
+  ```python main.py```
   
 <img width="953" alt="Screen Shot 2022-09-12 at 12 20 29" src="https://user-images.githubusercontent.com/60021484/189618397-cc2e4d65-c056-43ab-9eef-056792569e15.png">
